@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-yamaguti-6b61a2165/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mateus.yamaguti@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519998164736)
-[![Lattes](https://camo.githubusercontent.com/3c1b6bf91cac290fb58647d02455caffcd29d1541b1142a9b39b6c52da7bb776/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61747465732d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d476974426f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d687474703a2f2f6c61747465732e636e70712e62722f32343333353939303030333030363236)](http://lattes.cnpq.br/1517475645301874)
+[![Lattes](https://img.shields.io/badge/Lattes-004A99?style=for-the-badge&logoColor=white)]([SEU_LINK_LATTES](http://lattes.cnpq.br/1517475645301874))
+
 ## Habilidades
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
